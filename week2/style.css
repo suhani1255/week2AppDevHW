@@ -1,0 +1,53 @@
+.header{
+    background-color: rgb(77, 127, 220);
+}
+
+.header *{
+    color:white;
+}
+
+.header-btn{
+    background-color: purple;
+    padding:10px;
+    border-radius:40px;
+}
+
+.section{
+    box-shadow:5px 5px 10px black;
+    
+}
+
+.header, .section{
+    text-align: center;
+    padding: 20px;
+    border-radius: 50x;
+    margin-bottom: 20px;
+
+}
+
+.header-btn:hover{
+    background-color: black;
+}
+
+.sponsor-align{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.sponsor-align img{
+    height:100px;
+    /*box-shadow:5px 5px 10px black;*/
+    filter:drop-shadow(5px 5px 10px black);
+    /*filter:blur(5px);*/
+}
+
+.hover-red:hover{
+    background-color:rgb(111, 165, 222);
+    filter:blur(2px);
+}
+
+.imageAD{
+    border: 10px solid #555;
+    border-color:white;
+}
