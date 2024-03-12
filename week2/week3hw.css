@@ -1,0 +1,37 @@
+.header{
+    background-color: rgb(209, 171, 228);
+    text-align: center;
+    padding: 20px;
+    border-radius: 50x;
+    margin-bottom: 20px;
+}
+
+.section{
+    background-color: rgb(240, 230, 181);
+    text-align: center;
+    padding: 20px;
+    border-radius: 50x;
+    margin-bottom: 20px;
+}
+
+.hover-red:hover{
+    background-color:rgb(222, 111, 213);
+}
+/* to submit hw
+cd Documents/AppDev
+makedir bootcamp-homework-demo
+cd
+code .
+
+in vs
+git init
+respository code
+git remote -v
+git add .
+git commit -m "css hw"
+git push
+
+
+git checkout - b jshw
+git branch
+*/
